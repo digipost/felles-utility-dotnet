@@ -9,6 +9,7 @@ __Det som fungerer er:__
 __Det som ikke fungerer er:__
 * Steppe inn i tester
 * Tester som henter fra Windows Keystore
+* Strong Name signing
 
 __Sist testede versjon er__:
 ```
